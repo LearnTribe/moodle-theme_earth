@@ -232,7 +232,7 @@ function toggleLayer( whichLayer )
 <?php 
 
 // My Moodle icon 
-echo '<a class="tooltip" href="'.$CFG->wwwroot.'/my/" /><img src="' . $OUTPUT->pix_url('mb/user', 'theme') . '" title="My Modules"  /><span>My Modules</span></a>';
+echo '<a class="tooltip" href="'.$CFG->wwwroot.'/" /><img src="' . $OUTPUT->pix_url('mb/user', 'theme') . '" title="My Courses"  /><span>My Courses</span></a>';
 
 // Profile Icon 
 
